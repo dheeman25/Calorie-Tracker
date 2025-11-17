@@ -1,4 +1,4 @@
-**#CalorieTracker App**
+**# CalorieTracker App**
 
 
 
@@ -33,3 +33,4 @@
 * *simple file storage(JSON/CSV FILE)*
 * *Devlopement Enviorment: VS CODE*
 * *basic design interface(Upgradable)*
+
