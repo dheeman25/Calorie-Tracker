@@ -30,7 +30,8 @@
 **\*Technology stack\***
 
 * *Python coding language*
-* *simple file storage(JSON/CSV FILE)*
+* *simple file storage*
 * *Devlopement Enviorment: VS CODE*
 * *basic design interface(Upgradable)*
+
 
