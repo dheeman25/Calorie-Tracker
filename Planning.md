@@ -102,8 +102,9 @@
 * *Usability - Simple text interface*
   
 * *Reliability - Handles invalid inputs*
-* 
+ 
 * *Performance - Fast calculations*
-* 
+ 
 * *Maintainability - Modular code structure*
+
 
